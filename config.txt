@@ -1,0 +1,8 @@
+token=токен
+rand_delay_min=1
+rand_delay_max=5
+isthirdpython=0
+accountid=айди_акка
+allowedids=кто_может_юзать
+check_chat_cmd=checkid
+task_limit=25
